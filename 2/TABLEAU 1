@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>TABLEAU 1</title>
+    </head>
+    <body>
+        <table border="1px"> 
+            <tr>
+                <td rowspan="2">A</td>
+                <td colspan="2">B</td>
+                </tr>
+                <tr>
+                <td>C</td>
+                <td>D</td>
+                </tr>
+        </table>
+    </body>
+</html>
